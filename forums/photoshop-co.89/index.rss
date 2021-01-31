@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photoshop &amp; Co</title>
+    <description>Discussions et trouvailles dans le monde de la retouche d'image !</description>
+    <pubDate>Fri, 29 Jan 2021 09:35:35 +0000</pubDate>
+    <lastBuildDate>Fri, 29 Jan 2021 09:35:35 +0000</lastBuildDate>
+    <generator>Photoshop &amp; Co</generator>
+    <link>https://ante-mortem.fr/</link>
+    <atom:link rel="self" type="application/rss+xml" href="https://ante-mortem.fr/forums/photoshop-co.89/index.rss"/>
+  </channel>
+</rss>

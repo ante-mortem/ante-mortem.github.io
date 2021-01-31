@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Réglements et infos</title>
+    <description>A consulter avant de postuler chez nous !</description>
+    <pubDate>Fri, 29 Jan 2021 09:26:16 +0000</pubDate>
+    <lastBuildDate>Fri, 29 Jan 2021 09:26:16 +0000</lastBuildDate>
+    <generator>Réglements et infos</generator>
+    <link>https://ante-mortem.fr/</link>
+    <atom:link rel="self" type="application/rss+xml" href="https://ante-mortem.fr/forums/reglements-et-infos.19/index.rss"/>
+    <item>
+      <title>Règles &amp; Inscription</title>
+      <pubDate>Tue, 04 Aug 2015 10:09:31 +0000</pubDate>
+      <link>https://ante-mortem.fr/threads/regles-inscription.507/</link>
+      <guid>https://ante-mortem.fr/threads/regles-inscription.507/</guid>
+      <author>invalid@example.com (Abzalon)</author>
+      <dc:creator>Abzalon</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><div style="text-align: center"><div class="lbContainer lbContainer--inline"
+		data-xf-init="lightbox"
+		data-lb-single-image="1"
+		data-lb-container-zoom="1"
+		data-lb-trigger=".js-lbImage-_xfUid-1-1611912376"
+		data-lb-id="_xfUid-1-1611912376">
+		
+			<div class="lbContainer-zoomer js-lbImage-_xfUid-1-1611912376" data-src="https://ante-mortem.fr/styles/AM/antemortem-logo.png" aria-label="Zoom"></div>
+		
+		<img src="https://ante-mortem.fr/styles/AM/antemortem-logo.png" data-url="https://ante-mortem.fr/styles/AM/antemortem-logo.png" class="bbImage" data-zoom-target="1" alt="" />
+	</div>
+
+<br />
+<span style="font-size: 18px"><span style="color: #3BCE1D"><span style="font-family: 'Oswald'"><b>Bienvenue sur le forum de la communauté multigaming Ante Mortem !</b></span></span></span>&#8203;</div><br />
+<div style="text-align: center"><i><span style="font-family: 'Abel'">&quot;Vous êtes ici sur notre territoire, prenez garde à vous, si vous ne respectez pas les règles qui s'y appliquent, il peut ne pas être des plus amicals... &quot;</span></i>&#8203;</div><br />
+<div style="text-align: center">...&#8203;</div><br />
+<a href="https://ante-mortem.fr/threads/regles-inscription.507/" class="link link--internal">Règles &amp; Inscription</a></div>]]></content:encoded>
+      <slash:comments>4</slash:comments>
+    </item>
+  </channel>
+</rss>

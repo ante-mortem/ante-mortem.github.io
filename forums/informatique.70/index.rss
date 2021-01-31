@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Informatique</title>
+    <description>user@antemortem:~#ls /Informatique = hardware software OS</description>
+    <pubDate>Fri, 29 Jan 2021 09:38:26 +0000</pubDate>
+    <lastBuildDate>Fri, 29 Jan 2021 09:38:26 +0000</lastBuildDate>
+    <generator>Informatique</generator>
+    <link>https://ante-mortem.fr/</link>
+    <atom:link rel="self" type="application/rss+xml" href="https://ante-mortem.fr/forums/informatique.70/index.rss"/>
+    <item>
+      <title>Conseils achats matos</title>
+      <pubDate>Fri, 29 Nov 2019 20:52:12 +0000</pubDate>
+      <link>https://ante-mortem.fr/threads/conseils-achats-matos.1085/</link>
+      <guid>https://ante-mortem.fr/threads/conseils-achats-matos.1085/</guid>
+      <author>invalid@example.com (supermotard)</author>
+      <dc:creator>supermotard</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">Salut après quelques recherches sur les GPU se vient de prendre une gtx 1080 qui est super mais un peu en décalage avec le reste du PC. Pas que mon CPU soit à la ramasse mais bon j'aimerais changer plus par envie que par besoin.<br />
+<br />
+Bref voici mon matos actuel<br />
+i7 2600k @4.5Ghz<br />
+16Go DDR3 1600<br />
+<br />
+Mon orientation sur le PC est à 90% du gaming est je suis tenté par le nouveau i5 8600k, d'après mes recherches un Ryzen 5 1500X est plus performant de 2.6% , un Ryzen 5 1600X de 15.9%, un i5 7600K...<br />
+<br />
+<a href="https://ante-mortem.fr/threads/conseils-achats-matos.1085/" class="link link--internal">Conseils achats matos</a></div>]]></content:encoded>
+      <slash:comments>91</slash:comments>
+    </item>
+    <item>
+      <title>Ryzen series 2000</title>
+      <pubDate>Wed, 25 Apr 2018 21:20:14 +0000</pubDate>
+      <link>https://ante-mortem.fr/threads/ryzen-series-2000.1120/</link>
+      <guid>https://ante-mortem.fr/threads/ryzen-series-2000.1120/</guid>
+      <author>invalid@example.com (supermotard)</author>
+      <dc:creator>supermotard</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">Voilà après de bons cpu ryzen l'année dernière sort désormais leur évolution, la série 2000. <br />
+<br />
+Le r5 2600x face au i5 8600k et le r7 2700x face aux perfs du i7 8700k<br />
+<br />
+En gros en applicatif AmD est mieux et moins cher mais Intel reste devant pour le gaming.<br />
+<br />
+<a href="http://www.comptoir-hardware.com/articles/cpu-mobo-ram/36169-test-amd-x470-r5-2600x-r7-2700x.html?start=16" target="_blank" class="link link--external" rel="nofollow noopener">http://www.comptoir-hardware.com/ar...test-amd-x470-r5-2600x-r7-2700x.html?start=16</a></div>]]></content:encoded>
+      <slash:comments>4</slash:comments>
+    </item>
+    <item>
+      <title>Questions box/clé 4G</title>
+      <pubDate>Mon, 02 Apr 2018 04:15:58 +0000</pubDate>
+      <link>https://ante-mortem.fr/threads/questions-box-cle-4g.1116/</link>
+      <guid>https://ante-mortem.fr/threads/questions-box-cle-4g.1116/</guid>
+      <author>invalid@example.com (Abzalon)</author>
+      <dc:creator>Abzalon</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">J'ouvre ce topic parce que je cherche des pistes pour profiter d'une connexion internet décente dans mon futur appartement et plus tard ma future maison.<br />
+<br />
+Je m'explique : je suis en zone non dégroupée et je déménage dans trois mois vers une zone non dégroupée en couverture limité. J'ai entendu parlé d'antennes à placer en extérieurs qui permettraient d'amplifier la réception d'un signal 4G et dans mon cas le capter ca serait déjà pas mal en sachant qu'une zone bien couverte se trouve à...<br />
+<br />
+<a href="https://ante-mortem.fr/threads/questions-box-cle-4g.1116/" class="link link--internal">Questions box/clé 4G</a></div>]]></content:encoded>
+      <slash:comments>5</slash:comments>
+    </item>
+    <item>
+      <title>Vos config + setup</title>
+      <pubDate>Sun, 10 Dec 2017 14:15:53 +0000</pubDate>
+      <link>https://ante-mortem.fr/threads/vos-config-setup.945/</link>
+      <guid>https://ante-mortem.fr/threads/vos-config-setup.945/</guid>
+      <author>invalid@example.com (Eternos)</author>
+      <dc:creator>Eternos</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><div style="text-align: center">Allez c'est parti je lance le topic officiel de vos config et setup, j'entend par setup le 'ti bout de chez vous dans lequel vous vous cloîtrez sans qu'on s'en rende compte, votre petit jardin secret où repose votre bête de guerre (ou votre petit lutin magique qui vous propulse sur LoL)... On veut des photos bien évidemment, invitez-nous chez vous, faites-nous rêver !&#8203;</div><div style="text-align: center">En ce qui me concerne, j'ouvre évidemment le bal histoire de donner de l'inspiration aux...&#8203;</div><br />
+<a href="https://ante-mortem.fr/threads/vos-config-setup.945/" class="link link--internal">Vos config + setup</a></div>]]></content:encoded>
+      <slash:comments>54</slash:comments>
+    </item>
+    <item>
+      <title>Problème avec mes entrées/sorties son.</title>
+      <pubDate>Thu, 26 Jan 2017 18:09:05 +0000</pubDate>
+      <link>https://ante-mortem.fr/threads/probleme-avec-mes-entrees-sorties-son.1015/</link>
+      <guid>https://ante-mortem.fr/threads/probleme-avec-mes-entrees-sorties-son.1015/</guid>
+      <author>invalid@example.com (Leopolis)</author>
+      <dc:creator>Leopolis</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">Bon c'est pas nouveau j'ai des prises jack pourries mais jusque-là j'arrivais à faire avec en limitant les parasites etc... Mais pour une raison que j'ignore mon PC a décidé que c'était plus marrant de passer le micro ET le casque sur la même prise, vachement pratique.<br />
+<br />
+Du coup sur mes prises jack à l'avant j'ai : casque et micro qui fonctionnent sur la même prise (micro) mais avec des parasites du coup.<br />
+<br />
+A l'arrière j'ai : le micro qui fonctionne mais pas le casque (pas de détection)...<br />
+<br />
+<a href="https://ante-mortem.fr/threads/probleme-avec-mes-entrees-sorties-son.1015/" class="link link--internal">Problème avec mes entrées/sorties son.</a></div>]]></content:encoded>
+      <slash:comments>5</slash:comments>
+    </item>
+    <item>
+      <title>Application IOS qui vaut le coup !</title>
+      <pubDate>Mon, 23 Jan 2017 15:07:35 +0000</pubDate>
+      <link>https://ante-mortem.fr/threads/application-ios-qui-vaut-le-coup.1008/</link>
+      <guid>https://ante-mortem.fr/threads/application-ios-qui-vaut-le-coup.1008/</guid>
+      <author>invalid@example.com (Saimone)</author>
+      <dc:creator>Saimone</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">Le site de l'application : https://www.duetdisplay.com/fr/<br />
+<br />
+Le lien de téléchargement sur Apple Store : https://itunes.apple.com/fr/app/duet-display/id935754064?mt=8<br />
+<br />
+Je fais ce topic si jamais certains d'entre vous possèdent comme moi un Ipad. J'ai en effet craqué sur cette application il y a deux jours de ça. Son but : Faire de votre Ipad (ou de votre Iphone) un second écran pour votre pc. Et ça marche TRÈS TRÈS bien. C'est la première fois que je suis autant bluffé par une app, qui...<br />
+<br />
+<a href="https://ante-mortem.fr/threads/application-ios-qui-vaut-le-coup.1008/" class="link link--internal">Application IOS qui vaut le coup !</a></div>]]></content:encoded>
+      <slash:comments>1</slash:comments>
+    </item>
+    <item>
+      <title>Prototype site dayz</title>
+      <pubDate>Mon, 31 Oct 2016 09:08:48 +0000</pubDate>
+      <link>https://ante-mortem.fr/threads/prototype-site-dayz.810/</link>
+      <guid>https://ante-mortem.fr/threads/prototype-site-dayz.810/</guid>
+      <author>invalid@example.com (supermotard)</author>
+      <dc:creator>supermotard</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">Comme je suis en train d'apprendre le codage et que j'avais une idée pour un site consacré à Dayz je commence à me lancer et pour vous mettre l'eau à la bouche voici un premier screen:<br />
+<br />
+<br /><a href="https://www.dropbox.com/s/v4bxt8axnkkldqg/prototype%20site%20dayz.jpg?dl=0" target="_blank" class="link link--external" rel="nofollow noopener">
+https://www.dropbox.com/s/v4bxt8axnkkldqg/prototype site dayz.jpg?dl=0</a></div>]]></content:encoded>
+      <slash:comments>32</slash:comments>
+    </item>
+    <item>
+      <title>Navigateur.exe ?</title>
+      <pubDate>Thu, 20 Oct 2016 06:02:14 +0000</pubDate>
+      <link>https://ante-mortem.fr/threads/navigateur-exe.800/</link>
+      <guid>https://ante-mortem.fr/threads/navigateur-exe.800/</guid>
+      <author>invalid@example.com (ozu)</author>
+      <dc:creator>ozu</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">Salut,<br />
+<br />
+Bon j'inaugure cette nouvelle section avec un sujet un peu bateau mais quand même intéressant (Barbarie et moi avons déjà bien échangé la dessus)<br />
+<br />
+Quelle est votre navigateur internet de prédilection ?<br />
+<br />
+<br />
+[hr]<br />
+<br />
+Perso j'utilise Opera car déjà dans son ancienne version je trouvais qu'il avait des fonctionnalités intéressantes mais c'est surtout qu'il est disponible sur tout mes systèmes (utilisateur Mac/Linux à la base) <br />
+<br />
+J'accroche pas à Firefox perso et trouve Gecko (moteur...<br />
+<br />
+<a href="https://ante-mortem.fr/threads/navigateur-exe.800/" class="link link--internal">Navigateur.exe ?</a></div>]]></content:encoded>
+      <slash:comments>49</slash:comments>
+    </item>
+    <item>
+      <title>GTX 1060 vs  rx 480 who win ?</title>
+      <pubDate>Mon, 29 Aug 2016 11:07:38 +0000</pubDate>
+      <link>https://ante-mortem.fr/threads/gtx-1060-vs-rx-480-who-win.919/</link>
+      <guid>https://ante-mortem.fr/threads/gtx-1060-vs-rx-480-who-win.919/</guid>
+      <author>invalid@example.com (Emi)</author>
+      <dc:creator>Emi</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><a href="http://www.comptoir-hardware.com/articles/cartes-graphiques/32008-test-geforce-gtx-1060.html?start=19" target="_blank" class="link link--external" rel="nofollow noopener">http://www.comptoir-hardware.com/ar...ues/32008-test-geforce-gtx-1060.html?start=19</a><br />
+<br />
+La gtx 1060 est vraiment vraiment vraiment bien au niveaux des perfomances/nuisance sonore / conso électrique mais ya un gros problème SONT FOUTU PRIX !!!<br />
+<br />
+329€ minimum pour 250€ pour la rx 480 ( cela dit en passant la différence de perf n'est pas si monstrueuse que ça en les deux cartes) .<br />
+<br />
+J'ai vachement envie de changer de carte mais avec bon avec ce niveaux de prix...<br />
+<br />
+<a href="https://ante-mortem.fr/threads/gtx-1060-vs-rx-480-who-win.919/" class="link link--internal">GTX 1060 vs  rx 480 who win ?</a></div>]]></content:encoded>
+      <slash:comments>8</slash:comments>
+    </item>
+    <item>
+      <title>Antivirus / Anti-malware</title>
+      <pubDate>Mon, 22 Aug 2016 05:16:58 +0000</pubDate>
+      <link>https://ante-mortem.fr/threads/antivirus-anti-malware.906/</link>
+      <guid>https://ante-mortem.fr/threads/antivirus-anti-malware.906/</guid>
+      <author>invalid@example.com (Eternos)</author>
+      <dc:creator>Eternos</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><div style="text-align: left">Bon allez un nouveau petit topic dans la section informatique et pas des moindres, un consacré cette fois-ci aux Antivirus / Anti-malware !&#8203;</div>Histoire de faire le point sur vos utilisations personnelles, vos avis et vos préférences, avez-vous déjà été salement infectés ? Comment vous en êtes-vous sortis ? Quelles solutions on été apportés depuis etc... ?<br />
+<br />
+<div style="text-align: center"><div class="lbContainer lbContainer--inline"
+		data-xf-init="lightbox"
+		data-lb-single-image="1"
+		data-lb-container-zoom="1"
+		data-lb-trigger=".js-lbImage-_xfUid-1-1611913106"
+		data-lb-id="_xfUid-1-1611913106">
+		
+			<div class="lbContainer-zoomer js-lbImage-_xfUid-1-1611913106" data-src="https://antivirus.comodo.com/new-ab/images/antivirus-plus-firewall.png" aria-label="Zoom"></div>
+		
+		<img src="https://antivirus.comodo.com/new-ab/images/antivirus-plus-firewall.png" data-url="https://antivirus.comodo.com/new-ab/images/antivirus-plus-firewall.png" class="bbImage" data-zoom-target="1" alt="" />
+	</div></div><br />
+Je vais ouvrir le bal...<br />
+<br />
+<a href="https://ante-mortem.fr/threads/antivirus-anti-malware.906/" class="link link--internal">Antivirus / Anti-malware</a></div>]]></content:encoded>
+      <slash:comments>13</slash:comments>
+    </item>
+    <item>
+      <title>N1 - Un client mail bien fichu et opensource</title>
+      <pubDate>Sat, 20 Aug 2016 10:00:52 +0000</pubDate>
+      <link>https://ante-mortem.fr/threads/n1-un-client-mail-bien-fichu-et-opensource.843/</link>
+      <guid>https://ante-mortem.fr/threads/n1-un-client-mail-bien-fichu-et-opensource.843/</guid>
+      <author>invalid@example.com (ozu)</author>
+      <dc:creator>ozu</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><div style="text-align: center"><b>
+	
+	
+		
+		
+	
+
+
+	<div class="lbContainer lbContainer--inline"
+		data-xf-init="lightbox"
+		data-lb-single-image="1"
+		data-lb-container-zoom="1"
+		data-lb-trigger=".js-lbImage-_xfUid-2-1611913106"
+		data-lb-id="_xfUid-2-1611913106">
+		
+			<div class="lbContainer-zoomer js-lbImage-_xfUid-2-1611913106" data-src="https://nylas.com/static/img/blog/rrules/hero.gif" aria-label="Zoom"></div>
+		
+		<img src="https://nylas.com/static/img/blog/rrules/hero.gif" data-url="https://nylas.com/static/img/blog/rrules/hero.gif" class="bbImage" data-zoom-target="1" alt="" />
+	</div>
+
+</b>&#8203;</div><br />
+<br />
+Salut,<br />
+<br />
+Dans la suite des logiciels bien sympa à découvrir (si vous avez zappé <a href="http://ante-mortem.fr/Sujet-Wox-Ou-comment-gagner-du-temps" class="link link--internal">Wox je vous encourage à y jeter un oeil</a>) aujourd'hui on va parler des clients mails.<br />
+<br />
+Sur Mac ou Linux il y a déjà de bon client mail : Perso sur Mac bien que le client par défaut soit très bien, je préfére<a href="http://airmailapp.com/" target="_blank" class="link link--external" rel="nofollow noopener"> AirMail </a>(si...<br />
+<br />
+<a href="https://ante-mortem.fr/threads/n1-un-client-mail-bien-fichu-et-opensource.843/" class="link link--internal">N1 - Un client mail bien fichu et opensource</a></div>]]></content:encoded>
+      <slash:comments>6</slash:comments>
+    </item>
+    <item>
+      <title>Consoles, Voyenes</title>
+      <pubDate>Sat, 13 Aug 2016 15:58:54 +0000</pubDate>
+      <link>https://ante-mortem.fr/threads/consoles-voyenes.920/</link>
+      <guid>https://ante-mortem.fr/threads/consoles-voyenes.920/</guid>
+      <author>invalid@example.com (ozu)</author>
+      <dc:creator>ozu</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">Bon j'arrive pas a dormir surement du a une indigestion du clown que j'ai mangé pour le titre du sujet (Consonnes / Voyelles)<br />
+<br />
+Bref on va parler Console, celle pour jouer (pas de terminal aujourd'hui (les plus fous comprendront)<br />
+<br />
+A part jouer sur PC, etes-vous aussi sur Console ? <br />
+<br />
+On va rester sur des récentes, je lance un sondage publique (vos votes seront lisibles par les autres membres)<br />
+<br />
+Perso actuellement 360, Wii U, 3DS et Smartphone/Tablette<br />
+<br />
+La 360 partira bientot chez mon beau frère...<br />
+<br />
+<a href="https://ante-mortem.fr/threads/consoles-voyenes.920/" class="link link--internal">Consoles, Voyenes</a></div>]]></content:encoded>
+      <slash:comments>13</slash:comments>
+    </item>
+    <item>
+      <title>[AVIS] Achat de PC</title>
+      <pubDate>Wed, 03 Aug 2016 06:42:51 +0000</pubDate>
+      <link>https://ante-mortem.fr/threads/avis-achat-de-pc.882/</link>
+      <guid>https://ante-mortem.fr/threads/avis-achat-de-pc.882/</guid>
+      <author>invalid@example.com (khalimgg)</author>
+      <dc:creator>khalimgg</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">Pour ne pas polluer le post de Kiki, je crée le mien <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="smilie smilie--sprite smilie--sprite2" alt=";)" title="Wink    ;)" /><br />
+<br />
+Je vais m'acheter un PC et vos avis sont les bienvenus car je n'y connais rien. J'ai pu déjà pas mal échanger avec Piro qui a fait preuve de beaucoup de patience et qui m'a grandement aiguillé dans mes périgrinations.<br />
+<br />
+Avant de vous montrer où j'en suis pour avis, voici le contexte :<br />
+<br />
+<ul>
+<li>Budget : max <span style="color: #ffcc33">600€</span> car je sens le coup de devoir lâcher 125€ dans Win 10</li>
+<li>Usage : <span style="color: #ffcc33">Jeux</span>...</li>
+</ul><br />
+<a href="https://ante-mortem.fr/threads/avis-achat-de-pc.882/" class="link link--internal">[AVIS] Achat de PC</a></div>]]></content:encoded>
+      <slash:comments>37</slash:comments>
+    </item>
+    <item>
+      <title>News Hardware</title>
+      <pubDate>Sun, 10 Jul 2016 22:17:16 +0000</pubDate>
+      <link>https://ante-mortem.fr/threads/news-hardware.846/</link>
+      <guid>https://ante-mortem.fr/threads/news-hardware.846/</guid>
+      <author>invalid@example.com (Emi)</author>
+      <dc:creator>Emi</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">Yop je crée ce topic pour y poster des articles cool sur le hardware et le nouveau qui sort <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="smilie smilie--sprite smilie--sprite1" alt=":)" title="Smile    :)" /><br />
+<br />
+<br />
+Pour commencer voici les nouvelles cartes que Nvidia annonce <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="smilie smilie--sprite smilie--sprite7" alt=":p" title="Stick Out Tongue    :p" /> l'occasion de changer de matos pour certains x)<br />
+<br /><a href="http://www.cowcotland.com/news/52704/nvidia-annonce-gtx-1080.html" target="_blank" class="link link--external" rel="nofollow noopener">
+http://www.cowcotland.com/news/52704/nvidia-annonce-gtx-1080.html</a><br />
+<br /><a href="http://www.cowcotland.com/news/52705/nvidia-egalement-parle-gtx-1070.html" target="_blank" class="link link--external" rel="nofollow noopener">
+http://www.cowcotland.com/news/52705/nvidia-egalement-parle-gtx-1070.html</a></div>]]></content:encoded>
+      <slash:comments>35</slash:comments>
+    </item>
+    <item>
+      <title>[CG] AMD RX 480, 470 &amp; 460 - dispo 29 juin 2016</title>
+      <pubDate>Thu, 30 Jun 2016 15:32:05 +0000</pubDate>
+      <link>https://ante-mortem.fr/threads/cg-amd-rx-480-470-460-dispo-29-juin-2016.890/</link>
+      <guid>https://ante-mortem.fr/threads/cg-amd-rx-480-470-460-dispo-29-juin-2016.890/</guid>
+      <author>invalid@example.com (khalimgg)</author>
+      <dc:creator>khalimgg</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><div style="text-align: center">[img=300x200]http://www.ginjfo.com/wp-content/uploads/2016/06/Radeon_RX480_02-1024x666.jpg[/img]&#8203;</div>Bonjour à tous,<br />
+<br />
+Si j'en crois le site <a href="http://www.gameblog.fr/news/59769-e3-2016-la-pdg-d-amd-presente-les-cartes-graphiques-amd-rx47" target="_blank" class="link link--external" rel="nofollow noopener">Gameblog (lien)</a>, les dernières cartes graphiques AMD RX 480, 470 et 460 seront disponibles<br />
+<br />
+<i><span style="font-size: 22px">le 29 juin 2016 !!  :lick: </span></i><br />
+<br />
+Je guette ça !!</div>]]></content:encoded>
+      <slash:comments>20</slash:comments>
+    </item>
+    <item>
+      <title>freeze</title>
+      <pubDate>Thu, 30 Jun 2016 06:23:30 +0000</pubDate>
+      <link>https://ante-mortem.fr/threads/freeze.879/</link>
+      <guid>https://ante-mortem.fr/threads/freeze.879/</guid>
+      <author>invalid@example.com (Iblisia)</author>
+      <dc:creator>Iblisia</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">bonsoir à tous et à toutes<br />
+j'en appel à votre patience et connaissances.<br />
+sur smite et uniquement smite il m'est impossible à jouer depuis hier car à chaque team fight j'ai un enorme freeze avec la charmante fenetre &quot;smite ne repond pas&quot;,ca dure entre 5 et plus de 20s<br />
+apres avoir insulté mon pc en 72 langues differentes, maudis sur 54 generations, le probleme n'a pas avancé<br />
+j'ai fais le tour des forums qui j'ai pu trouver avec des articles similaires et toujours rien du coup re-insulte...<br />
+<br />
+<a href="https://ante-mortem.fr/threads/freeze.879/" class="link link--internal">freeze</a></div>]]></content:encoded>
+      <slash:comments>9</slash:comments>
+    </item>
+    <item>
+      <title>[HELP] Changement pc</title>
+      <pubDate>Thu, 16 Jun 2016 19:41:07 +0000</pubDate>
+      <link>https://ante-mortem.fr/threads/help-changement-pc.876/</link>
+      <guid>https://ante-mortem.fr/threads/help-changement-pc.876/</guid>
+      <author>invalid@example.com (IAkiYo)</author>
+      <dc:creator>IAkiYo</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">Salut salut, alors voila j'ai un pc gaming qui est plutôt ancien...<br />
+-GTX 660 2go GDDR5<br />
+-I5-3570<br />
+-Carte mère ausus px (a 25 boules)<br />
+-Alimentation 500w bronze<br />
+-4go de ram<br />
+-Boitier tour Black Magic a la con que je trouve tres moche!<br />
+Alors voila l'histoire, j'ai payer un ordinateur gaming chez LDLC, a 800 euros, mais... suite a je ne sais quoi le pc en question a tenu 1 ans, la garenties ne fonctionnent plus j'ai juste garder le processeur le reste étais mort -_-<br />
+<br />
+J'ai donc actuellement...<br />
+<br />
+<a href="https://ante-mortem.fr/threads/help-changement-pc.876/" class="link link--internal">[HELP] Changement pc</a></div>]]></content:encoded>
+      <slash:comments>15</slash:comments>
+    </item>
+    <item>
+      <title>Curse update</title>
+      <pubDate>Sun, 08 May 2016 01:15:14 +0000</pubDate>
+      <link>https://ante-mortem.fr/threads/curse-update.845/</link>
+      <guid>https://ante-mortem.fr/threads/curse-update.845/</guid>
+      <author>invalid@example.com (Haakatosh)</author>
+      <dc:creator>Haakatosh</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">Salut à tous, nouveau sujet pour parler de l'update d'un logiciel que beaucoup vont reconnaître au nom : Curse.<br />
+<br />
+<span style="text-decoration: underline">Pour les personnes qui ne connaisse pas petit rappelle rapide : </span><br />
+Curse c'est à la base un logiciel qui permet d'installer des addons sur World of Warcraft et qui en même temps proposer des fonctionnalité similaire à skype (la base quoi ^^), aujourd'hui Curse permet également de modder minecraft de moult façon via la base de donnée des modpack de Feed The Beast...<br />
+<br />
+<a href="https://ante-mortem.fr/threads/curse-update.845/" class="link link--internal">Curse update</a></div>]]></content:encoded>
+      <slash:comments>3</slash:comments>
+    </item>
+    <item>
+      <title>Sites sources d'inspiration</title>
+      <pubDate>Wed, 04 May 2016 18:46:15 +0000</pubDate>
+      <link>https://ante-mortem.fr/threads/sites-sources-dinspiration.833/</link>
+      <guid>https://ante-mortem.fr/threads/sites-sources-dinspiration.833/</guid>
+      <author>invalid@example.com (supermotard)</author>
+      <dc:creator>supermotard</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">En recherchant de l'inspiration je suis tombé sur quelques sites vraiment bien fait et moderne, je voulais donc partager cela avec vous avec quelques exemples dont voici le premier :<br />
+<a href="http://lookbook.quechua.com/spring-summer-2016/en" target="_blank" class="link link--external" rel="nofollow noopener">
+http://lookbook.quechua.com/spring-summer-2016/en</a><br />
+<br />
+A votre tour ...</div>]]></content:encoded>
+      <slash:comments>4</slash:comments>
+    </item>
+    <item>
+      <title>Limiter la bande passante par appareil</title>
+      <pubDate>Fri, 29 Apr 2016 23:19:09 +0000</pubDate>
+      <link>https://ante-mortem.fr/threads/limiter-la-bande-passante-par-appareil.820/</link>
+      <guid>https://ante-mortem.fr/threads/limiter-la-bande-passante-par-appareil.820/</guid>
+      <author>invalid@example.com (Iblisia)</author>
+      <dc:creator>Iblisia</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">salut à tous et à toutes<br />
+petit probleme tres genant, grosse perte de debit reguliere<br />
+apres contact avec un énieme conseiller bouygues celui ci me dit que ma conection est normale car pas de pertes de paquets et tant que mon debit descendant ne passe pas en dessous de 10Mb/S tout va bien<br />
+sauf que quand ma fille regarde ses dessins animés sur youtube bah je passe à 8 kke chose voir 6 et des patates<br />
+il y a t il possibilité de regler la bande passante allouée?<br />
+par exemple tablette en route...<br />
+<br />
+<a href="https://ante-mortem.fr/threads/limiter-la-bande-passante-par-appareil.820/" class="link link--internal">Limiter la bande passante par appareil</a></div>]]></content:encoded>
+      <slash:comments>25</slash:comments>
+    </item>
+  </channel>
+</rss>

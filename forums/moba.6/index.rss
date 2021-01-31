@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MOBA</title>
+    <description>MOBA</description>
+    <pubDate>Fri, 29 Jan 2021 09:54:55 +0000</pubDate>
+    <lastBuildDate>Fri, 29 Jan 2021 09:54:55 +0000</lastBuildDate>
+    <generator>MOBA</generator>
+    <link>https://ante-mortem.fr/</link>
+    <atom:link rel="self" type="application/rss+xml" href="https://ante-mortem.fr/forums/moba.6/index.rss"/>
+  </channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Events</title>
+    <description>Pour les Events de la catégorie FPS / Survival</description>
+    <pubDate>Fri, 29 Jan 2021 09:51:46 +0000</pubDate>
+    <lastBuildDate>Fri, 29 Jan 2021 09:51:46 +0000</lastBuildDate>
+    <generator>Events</generator>
+    <link>https://ante-mortem.fr/</link>
+    <atom:link rel="self" type="application/rss+xml" href="https://ante-mortem.fr/forums/events.68/index.rss"/>
+    <item>
+      <title>Arma 3 Antistasi</title>
+      <pubDate>Thu, 24 Jan 2019 23:32:48 +0000</pubDate>
+      <link>https://ante-mortem.fr/threads/arma-3-antistasi.1450/</link>
+      <guid>https://ante-mortem.fr/threads/arma-3-antistasi.1450/</guid>
+      <author>invalid@example.com (Leopolis)</author>
+      <dc:creator>Leopolis</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">Je vous avais proposé y a longtemps un mode de jeu de conquête d'Altis (ou d'autres cartes) qui ne se sauvegardait pas, du coup on a jamais pu aller bien loin. Antistasi c'est la même chose mais avec une sauvegarde locale possible et beaucoup plus poussé !<br />
+<br />
+Les infos postées en dessous sont tirées du wiki mais il ne semble pas être à jour.<br />
+<br />
+Je précise également que je n'ai joué que brièvement à la version AAF de la mission (il en existe trois : AAF, OTAN et warlrods of the pacific pour...<br />
+<br />
+<a href="https://ante-mortem.fr/threads/arma-3-antistasi.1450/" class="link link--internal">Arma 3 Antistasi</a></div>]]></content:encoded>
+      <slash:comments>13</slash:comments>
+    </item>
+    <item>
+      <title>Event CS GO</title>
+      <pubDate>Sun, 03 Jul 2016 18:01:10 +0000</pubDate>
+      <link>https://ante-mortem.fr/threads/event-cs-go.885/</link>
+      <guid>https://ante-mortem.fr/threads/event-cs-go.885/</guid>
+      <author>invalid@example.com (Zanwar)</author>
+      <dc:creator>Zanwar</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">Bonjour à tous bande de tarlouses ! <br />
+<br />
+Je vous propose de faire une petite soirée sympatique autour de CS GO. Avec diverses manches plus ou moins fun.... =)<br />
+<br />
+Pour l'instant je pense le faire mardi soir soit le 21/06/16 ou le 28/06/16. Choisissez le jour qui vous préférez dans le sondage et laissez une petites réponse pour dire si vous êtes intéressés ou non ! =)</div>]]></content:encoded>
+      <slash:comments>11</slash:comments>
+    </item>
+    <item>
+      <title>Quiquécho!!!</title>
+      <pubDate>Wed, 04 May 2016 08:58:26 +0000</pubDate>
+      <link>https://ante-mortem.fr/threads/quiquecho.821/</link>
+      <guid>https://ante-mortem.fr/threads/quiquecho.821/</guid>
+      <author>invalid@example.com (ZizouX)</author>
+      <dc:creator>ZizouX</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><div style="text-align: center">Quiquécho sera le thème de l'event!&#8203;</div><br />
+<div style="text-align: center"><span style="font-size: 12px">je vous propose une soirée arma 3 ce samedi 23 avril à partir de 21h00...</span>&#8203;</div><div style="text-align: center"><span style="font-size: 12px">Aux vues des participant je vous proposerai soit: </span>&#8203;</div><div style="text-align: center"><span style="font-size: 12px">- Quiquécho pour choisir un serveur bien blindé, mettre des têtes et raser des camps!</span>&#8203;</div><div style="text-align: center"><span style="font-size: 12px">- Quiquécho pour se faire une série de King of the Hill bien sanglant mais avec des officiers prédéfini afin de...</span>&#8203;</div><br />
+<a href="https://ante-mortem.fr/threads/quiquecho.821/" class="link link--internal">Quiquécho!!!</a></div>]]></content:encoded>
+      <slash:comments>10</slash:comments>
+    </item>
+  </channel>
+</rss>

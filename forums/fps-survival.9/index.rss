@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FPS/Survival</title>
+    <description>FPS/Survival</description>
+    <pubDate>Fri, 29 Jan 2021 09:44:06 +0000</pubDate>
+    <lastBuildDate>Fri, 29 Jan 2021 09:44:06 +0000</lastBuildDate>
+    <generator>FPS/Survival</generator>
+    <link>https://ante-mortem.fr/</link>
+    <atom:link rel="self" type="application/rss+xml" href="https://ante-mortem.fr/forums/fps-survival.9/index.rss"/>
+  </channel>
+</rss>

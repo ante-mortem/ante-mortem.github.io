@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Créateurs de contenus</title>
+    <description>Retrouvez ici les diverses créations de nos membres : YouTubers, Streamers, monteurs et arts graphiques divers !</description>
+    <pubDate>Fri, 29 Jan 2021 09:34:49 +0000</pubDate>
+    <lastBuildDate>Fri, 29 Jan 2021 09:34:49 +0000</lastBuildDate>
+    <generator>Créateurs de contenus</generator>
+    <link>https://ante-mortem.fr/</link>
+    <atom:link rel="self" type="application/rss+xml" href="https://ante-mortem.fr/forums/createurs-de-contenus.87/index.rss"/>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Events</title>
+    <description>Events</description>
+    <pubDate>Fri, 29 Jan 2021 09:58:38 +0000</pubDate>
+    <lastBuildDate>Fri, 29 Jan 2021 09:58:38 +0000</lastBuildDate>
+    <generator>Events</generator>
+    <link>https://ante-mortem.fr/</link>
+    <atom:link rel="self" type="application/rss+xml" href="https://ante-mortem.fr/forums/events.112/index.rss"/>
+    <item>
+      <title>Proposition d'Event RP Star Citizen</title>
+      <pubDate>Sat, 02 Feb 2019 05:22:55 +0000</pubDate>
+      <link>https://ante-mortem.fr/threads/proposition-devent-rp-star-citizen.1423/</link>
+      <guid>https://ante-mortem.fr/threads/proposition-devent-rp-star-citizen.1423/</guid>
+      <author>invalid@example.com (Razorback)</author>
+      <dc:creator>Razorback</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">Depuis le temps que j'y pense, il est l'heure d'ouvrir le sujet!<br />
+<br />
+Vues les performances actuelles du jeu (plusieurs heures sans crash et fps au RDV dans les meilleurs cas) c'est fort probable qu'un event RP soit réalisable. Je me suis bien penché sur la question depuis quelques jours et j'ai écrit un petit scénario pour organiser l'événement. Quand je dis scénario je précise qu'il ne s'agit pas de lignes de textes avec chaque répliques au mot près. D'ailleurs il n'y aura pas de dialogues...<br />
+<br />
+<a href="https://ante-mortem.fr/threads/proposition-devent-rp-star-citizen.1423/" class="link link--internal">Proposition d'Event RP Star Citizen</a></div>]]></content:encoded>
+      <slash:comments>10</slash:comments>
+    </item>
+  </channel>
+</rss>

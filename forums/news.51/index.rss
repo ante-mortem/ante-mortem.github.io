@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>News</title>
+    <description>Dates d'évents, nouveautés etc...</description>
+    <pubDate>Fri, 29 Jan 2021 09:52:13 +0000</pubDate>
+    <lastBuildDate>Fri, 29 Jan 2021 09:52:13 +0000</lastBuildDate>
+    <generator>News</generator>
+    <link>https://ante-mortem.fr/</link>
+    <atom:link rel="self" type="application/rss+xml" href="https://ante-mortem.fr/forums/news.51/index.rss"/>
+    <item>
+      <title>JDR - Bloodlust</title>
+      <pubDate>Sun, 20 May 2018 15:25:45 +0000</pubDate>
+      <link>https://ante-mortem.fr/threads/jdr-bloodlust.1109/</link>
+      <guid>https://ante-mortem.fr/threads/jdr-bloodlust.1109/</guid>
+      <author>invalid@example.com (Leopolis)</author>
+      <dc:creator>Leopolis</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">Je suis récemment tombé sur ce JDR français fraichement réédité et j'aime beaucoup l'univers (les règles c'est autre chose, le ivre étant un peu bordelique...). Alors oui je sais ça va commencer à faire beaucoup de JDR différents et de personnages qui n'avancent pas mais bon... je peux pas m'empêcher d'expérimenter.<br />
+<br />
+<b><span style="text-decoration: underline">Système de jeu :</span></b><br />
+Je commence tout juste à lire les règles mais pour ce que j'en ai compris c'est un système d6 qui m'a l'air assez complet avec, par contre...<br />
+<br />
+<a href="https://ante-mortem.fr/threads/jdr-bloodlust.1109/" class="link link--internal">JDR - Bloodlust</a></div>]]></content:encoded>
+      <slash:comments>19</slash:comments>
+    </item>
+    <item>
+      <title>DW - Organisation et horaires</title>
+      <pubDate>Mon, 31 Jul 2017 15:58:34 +0000</pubDate>
+      <link>https://ante-mortem.fr/threads/dw-organisation-et-horaires.993/</link>
+      <guid>https://ante-mortem.fr/threads/dw-organisation-et-horaires.993/</guid>
+      <author>invalid@example.com (Leopolis)</author>
+      <dc:creator>Leopolis</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">Topic dédié aux sessions JDR sur Dungeon World. J'indiquerai les horaires des sessions ici, idem pour les annonces ou ce genre de choses.<br />
+<br />
+Le topic servira aussi à vous organiser un peu au début, notamment pour ce qui est de la répartition des classes. Pour ça je divise les classes en différentes catégories et j'ajouterai les pseudos des personnes intéressées par une classe, à vous ensuite de vous mettre d'accord pour qui la jouera.<br />
+<br />
+Je catégorise selon l'endroit où je juge une classe la...<br />
+<br />
+<a href="https://ante-mortem.fr/threads/dw-organisation-et-horaires.993/" class="link link--internal">DW - Organisation et horaires</a></div>]]></content:encoded>
+      <slash:comments>48</slash:comments>
+    </item>
+    <item>
+      <title>JDR - Dungeon World</title>
+      <pubDate>Fri, 23 Jun 2017 10:01:35 +0000</pubDate>
+      <link>https://ante-mortem.fr/threads/jdr-dungeon-world.989/</link>
+      <guid>https://ante-mortem.fr/threads/jdr-dungeon-world.989/</guid>
+      <author>invalid@example.com (Leopolis)</author>
+      <dc:creator>Leopolis</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">Comme dit dans le topic de reprise je vais masteriser sur dungeon world, du coup je crée ce topic pour vous expliquer un peu de quoi il en retourne dans les grandes lignes.<br />
+<br />
+Le lien vers les règles : http://pbta.fr/wiki/doku.php?id=dungeonworld:sommaire<br />
+<br />
+[hr]<br />
+<span style="text-decoration: underline"><b>Le système de jeu :</b></span><br />
+La base de Dungeon World sont les statistiques des personnages (au nombre de 6 et allant de 3 à 18) et les Actions qui font office de compétences, d'attaques, de sorts, de dons... bref de tout ce...<br />
+<br />
+<a href="https://ante-mortem.fr/threads/jdr-dungeon-world.989/" class="link link--internal">JDR - Dungeon World</a></div>]]></content:encoded>
+      <slash:comments>4</slash:comments>
+    </item>
+  </channel>
+</rss>

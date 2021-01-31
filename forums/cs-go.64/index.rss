@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>CS GO</title>
+    <description>CS GO</description>
+    <pubDate>Fri, 29 Jan 2021 09:48:10 +0000</pubDate>
+    <lastBuildDate>Fri, 29 Jan 2021 09:48:10 +0000</lastBuildDate>
+    <generator>CS GO</generator>
+    <link>https://ante-mortem.fr/</link>
+    <atom:link rel="self" type="application/rss+xml" href="https://ante-mortem.fr/forums/cs-go.64/index.rss"/>
+    <item>
+      <title>Listes des joueurs/équipes</title>
+      <pubDate>Thu, 10 Dec 2015 06:16:25 +0000</pubDate>
+      <link>https://ante-mortem.fr/threads/listes-des-joueurs-equipes.631/</link>
+      <guid>https://ante-mortem.fr/threads/listes-des-joueurs-equipes.631/</guid>
+      <author>invalid@example.com (Abzalon)</author>
+      <dc:creator>Abzalon</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">Ci dessous la liste des joueurs de Counter Strike, à mettre a jour si nécessaire. Cette liste sera plus précise lorsque nous aurons tous joués suffisamment pour y ajouter nos fréquences de jeux et notre niveau global ou nos rôles favoris (sniper, assault etc..)<br />
+<br />
+Cette page servira également à gérer les équipes si notre nombre rend cela nécessaire.<br />
+<br />
+- Zanwar (Compétitives : <span style="color: #00BF00">OK</span>/Pre-ranked : <span style="color: #00BF00">Fini</span> )<br />
+- Fear (Compétitives ...<br />
+<br />
+<a href="https://ante-mortem.fr/threads/listes-des-joueurs-equipes.631/" class="link link--internal">Listes des joueurs/équipes</a></div>]]></content:encoded>
+      <slash:comments>27</slash:comments>
+    </item>
+    <item>
+      <title>Event CS.GO</title>
+      <pubDate>Wed, 02 Dec 2015 15:44:37 +0000</pubDate>
+      <link>https://ante-mortem.fr/threads/event-cs-go.638/</link>
+      <guid>https://ante-mortem.fr/threads/event-cs-go.638/</guid>
+      <author>invalid@example.com (Fear)</author>
+      <dc:creator>Fear</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><span style="color: #FF0000"><span style="font-size: 26px"><div style="text-align: center">Event CS.GO&#8203;</div></span></span><br />
+<div style="text-align: center"><div class="lbContainer lbContainer--inline"
+		data-xf-init="lightbox"
+		data-lb-single-image="1"
+		data-lb-container-zoom="1"
+		data-lb-trigger=".js-lbImage-_xfUid-1-1611913690"
+		data-lb-id="_xfUid-1-1611913690">
+		
+			<div class="lbContainer-zoomer js-lbImage-_xfUid-1-1611913690" data-src="http://img11.hostingpics.net/pics/60064314392975261690card.jpg" aria-label="Zoom"></div>
+		
+		<img src="http://img11.hostingpics.net/pics/60064314392975261690card.jpg" data-url="http://img11.hostingpics.net/pics/60064314392975261690card.jpg" class="bbImage" data-zoom-target="1" alt="" />
+	</div></div><br />
+<span style="color: #0000FF"><span style="font-size: 18px">Inscription.<br />
+</span></span><br />
+Nombre de joueurs : 7 à 10 participants.<br />
+<br />
+Liste :<br />
+ - Fear<br />
+- Abzalon<br />
+- Saimone<br />
+- Supermotard<br />
+- Surprise<br />
+- Corok<br />
+- Zanwar<br />
+- Khaos<br />
+- Weedoh<br />
+- Emi<br />
+<br />
+Réservistes :<br />
+- Eternos<br />
+<br />
+<span style="color: #0000FF"><span style="font-size: 18px">Objectif.</span></span><br />
+<br />
+Le but de cet event est simple, nous nous...<br />
+<br />
+<a href="https://ante-mortem.fr/threads/event-cs-go.638/" class="link link--internal">Event CS.GO</a></div>]]></content:encoded>
+      <slash:comments>26</slash:comments>
+    </item>
+    <item>
+      <title>Système de classement CS:GO</title>
+      <pubDate>Sat, 28 Nov 2015 19:49:59 +0000</pubDate>
+      <link>https://ante-mortem.fr/threads/systeme-de-classement-cs-go.630/</link>
+      <guid>https://ante-mortem.fr/threads/systeme-de-classement-cs-go.630/</guid>
+      <author>invalid@example.com (Zanwar)</author>
+      <dc:creator>Zanwar</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">En mode compétitif, le joueur fait l'objet d'un classement. Le but étant de devenir de plus en plus fort au fil du temps !<br />
+<br />
+Je vais essayer d’expliquer le système simplement.<br />
+Chaque joueurs possède un compteur (qu'il ne voit pas). En fonction du niveau global de ses adversaires, il gagne ou perd des points lorsqu'il rempote ou perd une partie. <br />
+<br />
+C'est d'ailleurs comme ça que le système équilibre les parties, il fait la somme de tout les points des joueurs présents dans dans le matchmaking...<br />
+<br />
+<a href="https://ante-mortem.fr/threads/systeme-de-classement-cs-go.630/" class="link link--internal">Système de classement CS:GO</a></div>]]></content:encoded>
+      <slash:comments>2</slash:comments>
+    </item>
+    <item>
+      <title>Counter Strike: Global Offensive pour les nuls</title>
+      <pubDate>Sat, 07 Nov 2015 12:07:34 +0000</pubDate>
+      <link>https://ante-mortem.fr/threads/counter-strike-global-offensive-pour-les-nuls.629/</link>
+      <guid>https://ante-mortem.fr/threads/counter-strike-global-offensive-pour-les-nuls.629/</guid>
+      <author>invalid@example.com (Zanwar)</author>
+      <dc:creator>Zanwar</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">Je viens donc vous présenter un nouveau jeu auquel j'aimerai que la team s’intéresse de plus près !<br />
+<br />
+<span style="text-decoration: underline">Donc Counter Strike, qu'est ce que c'est ?</span><br />
+<br />
+Counter-Strike: Global Offensive (CS: GO) est un jeu de tir à la première personne multijoueur en ligne basé sur le jeu d'équipe. C'est un jeu créer Valve (Le créateur de steam).<br />
+Le jeu fait s'affronter une équipe de terroristes et d'antiterroristes au cours de plusieurs manches. Les joueurs marquent des points en accomplissant les...<br />
+<br />
+<a href="https://ante-mortem.fr/threads/counter-strike-global-offensive-pour-les-nuls.629/" class="link link--internal">Counter Strike: Global Offensive pour les nuls</a></div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+  </channel>
+</rss>

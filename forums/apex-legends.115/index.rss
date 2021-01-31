@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Apex Legends</title>
+    <description>Apex Legends</description>
+    <pubDate>Fri, 29 Jan 2021 09:46:09 +0000</pubDate>
+    <lastBuildDate>Fri, 29 Jan 2021 09:46:09 +0000</lastBuildDate>
+    <generator>Apex Legends</generator>
+    <link>https://ante-mortem.fr/</link>
+    <atom:link rel="self" type="application/rss+xml" href="https://ante-mortem.fr/forums/apex-legends.115/index.rss"/>
+    <item>
+      <title>Apex Legends</title>
+      <pubDate>Fri, 13 Dec 2019 14:26:51 +0000</pubDate>
+      <link>https://ante-mortem.fr/threads/apex-legends.1471/</link>
+      <guid>https://ante-mortem.fr/threads/apex-legends.1471/</guid>
+      <author>invalid@example.com (Leopolis)</author>
+      <dc:creator>Leopolis</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><div style="text-align: center"><div class="lbContainer lbContainer--inline"
+		data-xf-init="lightbox"
+		data-lb-single-image="1"
+		data-lb-container-zoom="1"
+		data-lb-trigger=".js-lbImage-_xfUid-1-1611913569"
+		data-lb-id="_xfUid-1-1611913569">
+		
+			<div class="lbContainer-zoomer js-lbImage-_xfUid-1-1611913569" data-src="https://mspoweruser.com/wp-content/uploads/2019/02/apex-legends-banner.jpg" aria-label="Zoom"></div>
+		
+		<img src="https://mspoweruser.com/wp-content/uploads/2019/02/apex-legends-banner.jpg" data-url="https://mspoweruser.com/wp-content/uploads/2019/02/apex-legends-banner.jpg" class="bbImage" data-zoom-target="1" alt="" />
+	</div>
+
+<br />&#8203;</div><span style="text-decoration: underline"><b>Apex Legends en bref :</b></span><br />
+Apex Legends est un battle royale free to play qui prend place dans l'univers de Titanfall dont il reprend une partie du système de mouvement. Il se joue exclusivement en équipe de 3 avec des personnages (les Légendes) possédant chacun des capacités propres : un passif, une compétence tactique utilisable fréquemment, et une compétence &quot;ultime&quot; qui a un...<br />
+<br />
+<a href="https://ante-mortem.fr/threads/apex-legends.1471/" class="link link--internal">Apex Legends</a></div>]]></content:encoded>
+      <slash:comments>7</slash:comments>
+    </item>
+    <item>
+      <title>Screenshot/Vidéo</title>
+      <pubDate>Sat, 30 Mar 2019 08:59:43 +0000</pubDate>
+      <link>https://ante-mortem.fr/threads/screenshot-video.1472/</link>
+      <guid>https://ante-mortem.fr/threads/screenshot-video.1472/</guid>
+      <author>invalid@example.com (Abzalon)</author>
+      <dc:creator>Abzalon</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">J'inaugure avec ce screenshot d'une partie ou Apex ne m'a pas respecté du tout en m'envoyant tout seul vs des squad de 3, et bien je me suis pas trop mal démerdé en fumant deux squad entières et un pauvre pélo passant par la xD.<br />
+<br />
+
+	<a href="https://ante-mortem.fr/attachments/apex-legends-screenshot-2019-02-15-22-47-43-jpg.120/" target="_blank"><img src="/data/attachments/0/120-3015294a8f6e39c3c00b0ce18cac508c.jpg" class="bbImage" alt="Apex Legends Screenshot 2019.02.15 - 22.47.43.jpg" /></a></div>]]></content:encoded>
+      <slash:comments>27</slash:comments>
+    </item>
+  </channel>
+</rss>

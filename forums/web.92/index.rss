@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Web</title>
+    <description>Nos sites partenaires et créations Web diverses</description>
+    <pubDate>Fri, 29 Jan 2021 09:35:41 +0000</pubDate>
+    <lastBuildDate>Fri, 29 Jan 2021 09:35:41 +0000</lastBuildDate>
+    <generator>Web</generator>
+    <link>https://ante-mortem.fr/</link>
+    <atom:link rel="self" type="application/rss+xml" href="https://ante-mortem.fr/forums/web.92/index.rss"/>
+    <item>
+      <title>Recherche Développeur mod ArmA3</title>
+      <pubDate>Fri, 12 Oct 2018 23:55:55 +0000</pubDate>
+      <link>https://ante-mortem.fr/threads/recherche-developpeur-mod-arma3.1398/</link>
+      <guid>https://ante-mortem.fr/threads/recherche-developpeur-mod-arma3.1398/</guid>
+      <author>invalid@example.com (Eternos)</author>
+      <dc:creator>Eternos</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">Bonjour,<br />
+<br />
+Je viens de recevoir ce weekend un MP sur notre page Facebook.<br />
+Un type qui cherche un (ou plusieurs) devs pour l'aider dans son projet &quot;OfrL3&quot; sur ArmA3.<br />
+<br />
+Si vous êtes intéressé, voici son Twitter : <a href="https://twitter.com/ofrl3" target="_blank" class="link link--external" rel="noopener">OFrL3 (@OFrL3) | Twitter</a><br />
+<br />
+
+	<a href="https://ante-mortem.fr/attachments/1538975673103-png.111/" target="_blank"><img src="/data/attachments/0/111-2282bf51b32c063f40d3017f781c1a3a.jpg" class="bbImage" alt="1538975673103.png" /></a></div>]]></content:encoded>
+      <slash:comments>9</slash:comments>
+    </item>
+  </channel>
+</rss>

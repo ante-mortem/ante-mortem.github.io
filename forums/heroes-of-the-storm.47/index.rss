@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Heroes of the Storm</title>
+    <description>Heroes of the Storm</description>
+    <pubDate>Fri, 29 Jan 2021 09:57:12 +0000</pubDate>
+    <lastBuildDate>Fri, 29 Jan 2021 09:57:12 +0000</lastBuildDate>
+    <generator>Heroes of the Storm</generator>
+    <link>https://ante-mortem.fr/</link>
+    <atom:link rel="self" type="application/rss+xml" href="https://ante-mortem.fr/forums/heroes-of-the-storm.47/index.rss"/>
+    <item>
+      <title>News</title>
+      <pubDate>Sun, 02 Aug 2015 22:08:56 +0000</pubDate>
+      <link>https://ante-mortem.fr/threads/news.455/</link>
+      <guid>https://ante-mortem.fr/threads/news.455/</guid>
+      <author>invalid@example.com (Fear)</author>
+      <dc:creator>Fear</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><div style="text-align: center">Je créer ce topic afin que toutes les nouvelles informations par rapport aux MAJ soient postées ici même !&#8203;</div><br />
+<div style="text-align: center">Les nouveaux persos et nouvelles cartes sont aussi à poster ici ! :dance:&#8203;</div></div>]]></content:encoded>
+      <slash:comments>6</slash:comments>
+    </item>
+    <item>
+      <title>Présentation du jeu</title>
+      <pubDate>Tue, 30 Jun 2015 20:06:06 +0000</pubDate>
+      <link>https://ante-mortem.fr/threads/presentation-du-jeu.454/</link>
+      <guid>https://ante-mortem.fr/threads/presentation-du-jeu.454/</guid>
+      <author>invalid@example.com (Fear)</author>
+      <dc:creator>Fear</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><div style="text-align: center"><div class="lbContainer lbContainer--inline"
+		data-xf-init="lightbox"
+		data-lb-single-image="1"
+		data-lb-container-zoom="1"
+		data-lb-trigger=".js-lbImage-_xfUid-1-1611914232"
+		data-lb-id="_xfUid-1-1611914232">
+		
+			<div class="lbContainer-zoomer js-lbImage-_xfUid-1-1611914232" data-src="http://img11.hostingpics.net/pics/342523BLIZZARDphotoheroesofthestormHOTSsplashscreencorecharacters.jpg" aria-label="Zoom"></div>
+		
+		<img src="http://img11.hostingpics.net/pics/342523BLIZZARDphotoheroesofthestormHOTSsplashscreencorecharacters.jpg" data-url="http://img11.hostingpics.net/pics/342523BLIZZARDphotoheroesofthestormHOTSsplashscreencorecharacters.jpg" class="bbImage" data-zoom-target="1" alt="" />
+	</div>
+
+<br />
+<br />
+Bien le bonjour chers membres,<br />
+<br />
+Bienvenues dans la présentation du fameux jeux<i> Blizzard</i> &quot;<span style="color: #66ccff"><b>Heroes Of The Storm</b></span>&quot; !<br />
+<br />
+Tout d'abord, mettons les points sur les I, comme tout jeux, il a ses spécificités uniques en son genre, il n'est donc pas comme <span style="text-decoration: line-through">LoL</span> ou même <span style="text-decoration: line-through">Smite</span>.<br />
+Certes c'est un MOBA, le principe reste le même que...&#8203;</div><br />
+<a href="https://ante-mortem.fr/threads/presentation-du-jeu.454/" class="link link--internal">Présentation du jeu</a></div>]]></content:encoded>
+      <slash:comments>9</slash:comments>
+    </item>
+  </channel>
+</rss>
